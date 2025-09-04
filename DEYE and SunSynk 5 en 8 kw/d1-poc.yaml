@@ -1,3 +1,4 @@
+#https://github.com/slipx06/Sunsynk-Home-Assistant-Dash/tree/main
 substitutions:
   settings_skipped_updates: "30"
   devicename: "inverter"
