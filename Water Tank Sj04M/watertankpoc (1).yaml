@@ -1,3 +1,5 @@
+#https://github.com/kane5432/ESP32-Water-Level-Sensor/tree/main
+
 esphome:
   name: watertankpoc
   friendly_name: WaterTankPOC
